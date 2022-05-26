@@ -28,7 +28,7 @@
 </a>
   
 <a href="https://www.docker.com/" target="_blank">
-<img src="https://github.com/libopenstorage/docker/blob/master/docs/static_files/docker-logo-compressed.png" alt="Docker" width="100" height="40"/> 
+<img src="https://github.com/libopenstorage/docker/blob/master/docs/static_files/docker-logo-compressed.png" alt="Docker" width="140" height="40"/> 
 </a>
 
 <a href="https://nginx.org" target="_blank">

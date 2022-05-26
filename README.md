@@ -28,7 +28,7 @@
 </a>
   
 <a href="https://www.docker.com/" target="_blank">
-<img src="https://docs.pytest.org/en/7.1.x/_static/pytest_logo_curves.svg" alt="Docker" width="100" height="40"/> 
+<img src="https://github.com/libopenstorage/docker/blob/master/docs/static_files/docker-logo-compressed.png" alt="Docker" width="100" height="40"/> 
 </a>
   
 </p>

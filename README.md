@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://nginx.org" target="_blank">
-<img src="https://nginx.org/nginx.png" alt="Docker" width="145" height="40"/> 
+<img src="https://nginx.org/nginx.png" alt="Docker" width="180" height="40"/> 
 </a>
 
 </p>
